@@ -18,5 +18,9 @@
         "titleBar.inactiveBackground": "#075e1099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#075e10"
+    "peacock.color": "#075e10",
+    "cSpell.words": [
+        "networkx",
+        "pylab"
+    ]
 }

@@ -21,6 +21,7 @@
     "peacock.color": "#075e10",
     "cSpell.words": [
         "networkx",
-        "pylab"
+        "pylab",
+        "vcover"
     ]
 }
